@@ -1,3 +1,3 @@
 # TestingRepo
 created on friday
-Author chinmay nawghare
+Author chinmay nawghar
